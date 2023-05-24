@@ -1,0 +1,10 @@
+a1=int(input("Enter the marks of Student 1:-"))
+a2=int(input("Enter the marks of Student 2:-"))
+a3=int(input("Enter the marks of Student 3:-"))
+a4=int(input("Enter the marks of Student 4:-"))
+a5=int(input("Enter the marks of Student 5:-"))
+a6=int(input("Enter the marks of Student 6:-"))
+mark=[a1,a2,a3,a4,a5,a6]
+print(mark)
+mark.sort()
+print(mark)

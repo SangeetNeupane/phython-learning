@@ -1,0 +1,1 @@
+print("i am sangeet\ni love me\tand i knows every one love\\hate\' me.")
